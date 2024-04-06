@@ -157,4 +157,3 @@ const fazerCheckIn = (event) => {
   // atualizar a lista de participantes
   atualizarLista(participantes);
 };
-
